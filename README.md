@@ -116,7 +116,7 @@
 </div>
 
 <br/><br/>
-
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=anmoldube&bg_color=0D1117&color=58A6FF&line=238636&point=1F6FEB&area=true&hide_border=true" alt="Activity Graph" />
 <hr/>
 
 <br/>
