@@ -22,19 +22,19 @@
 
 <div align="center">
 
-👋 Hi there! I’m ***Aryan Baadlas*** a curious mind from 🇮🇳 who loves turning ideas into code. 
+👋 Hi there! I’m **_Aryan Baadlas_** a curious mind from 🇮🇳 who loves turning ideas into code.
 
-🔭 I’m currently working on ***DSA Skills***.  
+🔭 I’m currently working on **_DSA Skills_**.
 
-🌱 I’m diving deeper into ***Docker***, ***AWS***, ***Kubernetes***, ***Supabase***, and ***Generative AI***. 
+🌱 I’m diving deeper into **_Docker_**, **_AWS_**, **_Kubernetes_**, **_Supabase_**, and **_Generative AI_**.
 
-💡 I enjoy building ***data driven applications*** that are modular, scalable, and easy to use.
+💡 I enjoy building **_data driven applications_** that are modular, scalable, and easy to use.
 
-💬 Ask me about ***Python***, ***Machine Learning***, ***React***, ***Node.js*** or just tech in general. [Here](https://www.linkedin.com/in/aryanbaadlas/)  
+💬 Ask me about **_Python_**, **_Machine Learning_**, **_React_**, **_Node.js_** or just tech in general. [Here](https://www.linkedin.com/in/aryanbaadlas/)
 
-🤝 I’m always open to ***collaborations on AI, data science, or full-stack projects***.  
+🤝 I’m always open to **_collaborations on AI, data science, or full-stack projects_**.
 
-⚡ Fun fact: ***Overspeeding makes me fell alive***. 🏎️🛞
+⚡ Fun fact: **_Overspeeding makes me fell alive_**. 🏎️🛞
 
 🎯 Motto: 👇
 
@@ -76,24 +76,25 @@
 
 <br/>
 
-<div align="center"> 
+<div align="center">
 
   <!-- Row 1: Data Science & Tools -->
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,mongodb,firebase,supabase,flask,postman,aws,docker,kubernetes" /><br>
+
+<img src="https://skillicons.dev/icons?i=python,r,mysql,mongodb,firebase,supabase,flask,postman,aws,docker,kubernetes" /><br>
 
   <!-- Row 2: Web Development -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,javascript,typescript,html,css,tailwind,bootstrap,mui" /><br>
-  
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,javascript,typescript,html,css,tailwind,bootstrap,mui" /><br>
+
   <!-- Row 3: Programming Languages & Tools -->
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,git,github,vscode,figma,vercel,netlify" /><br>
+
+<img src="https://skillicons.dev/icons?i=java,c,cpp,git,github,vscode,figma,vercel,netlify" /><br>
 
 </div>
 
-
-
 <br/>
-<hr/>
 
+<hr/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -105,18 +106,18 @@
 
 <hr/>
 
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=be-a-guptaji&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=be-a-guptaji&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=be-a-guptaji&langs_count=10&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=anmoldube&bg_color=0D1117&color=58A6FF&line=238636&point=1F6FEB&area=true&hide_border=true" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=be-a-guptaji&bg_color=0D1117&color=58A6FF&line=238636&point=1F6FEB&area=true&hide_border=true" alt="Activity Graph" />
+
 <hr/>
 
 <br/>
