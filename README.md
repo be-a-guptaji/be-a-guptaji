@@ -45,6 +45,9 @@
  
  </div>
  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="600" />
+</p>
  
 <div align="center"> 
   <a href="mailto:aryanbaadlas@gmail.com" target="_blank">
@@ -67,7 +70,6 @@
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
-
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
