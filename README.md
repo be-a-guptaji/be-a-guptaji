@@ -96,16 +96,6 @@
 
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/be-a-guptaji/be-a-guptaji/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
@@ -116,6 +106,11 @@
 </div>
 
 <br/><br/>
+
+<h2 align="center">📊 My Contributions 📊</h2>
+
+<br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=be-a-guptaji&bg_color=0D1117&color=58A6FF&line=238636&point=1F6FEB&area=true&hide_border=true" alt="Activity Graph" />
 
 <hr/>
