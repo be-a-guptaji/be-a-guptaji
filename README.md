@@ -79,7 +79,7 @@
 <div align="center"> 
 
   <!-- Row 1: Data Science & Tools -->
-  <img src="https://skillicons.dev/icons?i=python,mysql,mongodb,firebase,supabase,flask,postman,aws,docker,kubernetes" /><br>
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,mongodb,firebase,supabase,flask,postman,aws,docker,kubernetes" /><br>
 
   <!-- Row 2: Web Development -->
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,javascript,typescript,html,css,tailwind,bootstrap,mui" /><br>
@@ -94,7 +94,7 @@
 <br/>
 <hr/>
 
-<!--
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -104,7 +104,7 @@
 </div>
 
 <hr/>
--->
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
