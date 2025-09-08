@@ -14,15 +14,13 @@
 </p>
 </h1>
 
-<h3 align="center">
-  I am a 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭 and 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 from 𝐈𝐧𝐝𝐢𝐚 🇮🇳.
-</h3>
-
 <br/>
 
 <div align="center">
 
-👋 Hi there! I’m **_Aryan Baadlas_** a curious mind from 🇮🇳 who loves turning ideas into code.
+👋 Hi there! I’m **_Aryan Baadlas_** a curious mind from India 🇮🇳 who loves turning ideas into code.
+
+🔬  I am a 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭 and 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 from 𝐈𝐧𝐝𝐢𝐚 🇮🇳.
 
 🔭 I’m currently working on **_DSA Skills_**.
 
