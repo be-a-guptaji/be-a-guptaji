@@ -80,7 +80,7 @@
 
   <!-- Row 1: Data Science & Tools -->
 
-<img src="https://skillicons.dev/icons?i=python,r,mysql,mongodb,firebase,supabase,flask,postman,aws,docker,kubernetes" /><br>
+<img src="https://skillicons.dev/icons?i=python,r,lua,mysql,mongodb,firebase,supabase,flask,postman,aws,docker,kubernetes" /><br>
 
   <!-- Row 2: Web Development -->
 
