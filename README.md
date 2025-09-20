@@ -117,4 +117,4 @@
 
 <hr/>
 
-> *“Learning never exhausts the mind.” – Leonardo da Vinci*
+> *“An investment in knowledge pays the best interest.” – Benjamin Franklin*
