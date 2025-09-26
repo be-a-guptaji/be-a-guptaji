@@ -84,7 +84,7 @@
 
   <!-- Row 2: Web Development -->
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,javascript,typescript,html,css,tailwind,bootstrap,mui" /><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,express,javascript,typescript,html,css,tailwind,bootstrap,mui" /><br>
 
   <!-- Row 3: Programming Languages & Tools -->
 
