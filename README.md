@@ -97,7 +97,9 @@
 <hr/>
 
 <h1 align="center">⚡ Stats ⚡</h1>
+
 <br>
+
 <div align=center>
 <h2 align="center">🔥 Github Streaks 🔥</h2>
   <img width=650 src="https://github-readme-streak-stats.herokuapp.com/?user=be-a-guptaji&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
