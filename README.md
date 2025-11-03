@@ -152,4 +152,11 @@
 
 ---
 
+<h2 align="center">🐍 My Contribution Snake 🐍</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/be-a-guptaji/be-a-guptaji/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+
 > _“An investment in knowledge pays the best interest.” – Benjamin Franklin_
