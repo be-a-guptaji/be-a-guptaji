@@ -145,7 +145,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🌟+My+GitHub+Contributions+🌟;🚀+Open+Source+Projects+🚀;🤝+Collaborations+and+Commits+🤝" alt="GitHub Contributions Animation" />
 </h2>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=be-a-guptaji&bg_color=0D1117&color=58A6FF&line=238636&point=1F6FEB&area=true&hide_border=true" alt="Activity Graph" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=be-a-guptaji&bg_color=0D1117&color=58A6FF&line=238636&point=1F6FEB&area=true&hide_border=true" alt="Activity Graph" /> -->
+<p align="center">
+  <img src="https://github.com/be-a-guptaji/be-a-guptaji/blob/main/profile-3d-contrib/profile-night-view.svg" width="100%" />
+</p>
 
 ---
 
