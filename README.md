@@ -1,41 +1,54 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=be-a-guptaji.be-a-guptaji" />
-
+<br/>
 <!-- Fixed README snippet (GitHub-friendly) -->
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=40&center=true&vCenter=true&width=1000&height=70&duration=2500&pause=1000&lines=Hi+There!+👋;+I+am+Aryan+Baadlas!+😉;"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=1500&pause=1000&color=FFB400&center=true&vCenter=true&width=700&lines=Hi+There!+👋;+I+am+Aryan+Baadlas!+😉;"
     alt="greeting"
   />
-<p align="center" style="line-height:1;width:1000px;">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=40&center=true&vCenter=true&width=1000&height=70&duration=2500&pause=1000&lines=I+am+a+Data+Scientist!+🔬;+I+am+a+Web+Developer!+🌐;"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=1500&pause=1000&color=FFB400&center=true&vCenter=true&width=700&lines=I+am+a+Data+Scientist!+🔬;+I+am+a+Web+Developer!+🌐;"
     alt="greeting"
   />
-</p>
 </h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="90%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0f172a,100:1e3a8a&section=footer" />
+</p>
+
+---
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🚀+About+Me;💻+Crafting+Code+That+Matters;🌱+Always+Learning,+Always+Building" alt="About Me Animation" />
+</h2>
 
 <br/>
 
-<div align="center">
 
-👋 Hi there! I’m **_Aryan Baadlas_** a curious mind from India 🇮🇳 who loves turning ideas into code.
+- 👋 Hi there! I’m **_Aryan Baadlas_** a curious mind from India 🇮🇳 who loves turning ideas into code.
 
-🔬  I am a 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭 and 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 from 𝐈𝐧𝐝𝐢𝐚 🇮🇳.
+- 🔬  I am a 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭 and 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 from 𝐈𝐧𝐝𝐢𝐚 🇮🇳.
 
-🔭 I’m currently working on **_DSA Skills_**.
+- 🔭 I’m currently working on **_DSA Skills_**.
 
-🌱 I’m diving deeper into **_Docker_**, **_AWS_**, **_Kubernetes_**, **_Supabase_**, and **_Generative AI_**.
+- 🌱 I’m diving deeper into **_Docker_**, **_AWS_**, **_Kubernetes_**, **_Supabase_**, and **_Generative AI_**.
 
-💡 I enjoy building **_data driven applications_** that are modular, scalable, and easy to use.
+- 💡 I enjoy building **_data driven applications_** that are modular, scalable, and easy to use.
 
-💬 Ask me about **_Python_**, **_Machine Learning_**, **_React_**, **_Node.js_** or just tech in general. [Here](https://www.linkedin.com/in/aryanbaadlas/)
+- 💬 Ask me about **_Python_**, **_Machine Learning_**, **_React_**, **_Node.js_** or just tech in general. [Here](https://www.linkedin.com/in/aryanbaadlas/)
 
-🤝 I’m always open to **_collaborations on AI, data science, or full-stack projects_**.
+- 🤝 I’m always open to **_collaborations on AI, data science, or full-stack projects_**.
 
-⚡ Fun fact: **_Overspeeding makes me fell alive_**. 🏎️🛞
+- ⚡ Fun fact: **_Overspeeding makes me fell alive_**. 🏎️🛞
 
+<p align="center">
 🎯 Motto: 👇
-
+</p>
 <p align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=18&center=true&vCenter=true&width=950&height=90&duration=3500&pause=900&lines=🚀+If+I+can+do+it%2C+anyone+can;💡+Dream.+Code.+Deploy.;🌱+Evolving+one+line+of+code+at+a+time;🔥+Breaking+problems%2C+building+solutions;⚡+Keep+it+simple%2C+make+it+powerful;🌐+Coding+the+future%2C+one+project+at+a+time"
@@ -43,12 +56,17 @@
   />
 </p>
  
- </div>
- 
+ ---
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="600" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0f172a,100:1e3a8a&section=footer" />
 </p>
- 
+
+---
+ <h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=❤️+Connect+with+me!+❤️;😎+My+Socials!+😎" alt="Socials Animation" />
+</h2>
+
 <div align="center"> 
   <a href="mailto:aryanbaadlas@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -71,9 +89,17 @@
   </a>
 </div>
 
- <hr/>
+ ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0f172a,100:1e3a8a&section=footer" />
+</p>
+
+---
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=⚡+Explore+My+Tech+Stack!;💻+From+Logic+to+Interface" alt="Typing Animation" />
+</h2>
 
 <br/>
 
@@ -95,14 +121,17 @@
 
 <br/>
 
-<hr/>
+---
 
-<h1 align="center">⚡ Stats ⚡</h1>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=📊+GitHub+Stats+📊;🔥+Contribution+Streaks+🔥;🧠+Languages+I+Use+🧠" alt="GitHub Stats Animation" />
+</h2>
+
 
 <br>
 
 <div align=center>
-<h2 align="center">🔥 Github Streaks 🔥</h2>
+<h2 align="center">🔥 Streaks 🔥</h2>
   <img width=650 src="https://github-readme-streak-stats.herokuapp.com/?user=be-a-guptaji&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 <h2 align="center">📚 Github Stats 📚</h2>
   <img width=650 src="https://github-readme-stats.vercel.app/api?username=be-a-guptaji&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
@@ -111,11 +140,11 @@
   <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=be-a-guptaji&langs_count=10&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/>
+---
 
-<br/>
-
-<h2 align="center">📊 My Contributions 📊</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🌟+My+GitHub+Contributions+🌟;🚀+Open+Source+Projects+🚀;🤝+Collaborations+and+Commits+🤝" alt="GitHub Contributions Animation" />
+</h2>
 
 <br/>
 
