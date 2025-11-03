@@ -13,11 +13,11 @@ jobs:
     name: Generate Snake Animation
     runs-on: ubuntu-latest
     permissions:
-      contents: write   # ✅ This line gives git push permission
+      contents: write   # ✅ allows pushing to the output branch
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate Snake SVG
         uses: Platane/snk/svg-only@v3
