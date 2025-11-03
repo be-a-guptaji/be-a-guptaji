@@ -3,10 +3,10 @@ name: GitHub-Profile-3D-Contrib
 on:
   schedule:
     - cron: "0 18 * * *"  # Runs daily at 18:00 UTC
-  workflow_dispatch:        # Allows manual run from Actions tab
+  workflow_dispatch:        # Allows manual triggering
 
 permissions:
-  contents: write           # Required to push generated files
+  contents: write           # Needed to push changes
 
 jobs:
   build:
@@ -21,15 +21,15 @@ jobs:
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: be-a-guptaji   # ✅ Your GitHub username
 
-      - name: Commit & Push Changes
+      - name: Commit & Push Generated Files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
           if git diff --cached --quiet; then
-            echo "No changes to commit."
+            echo "No new changes to commit."
           else
             git commit -m "chore: update 3D contribution graph"
             git push
