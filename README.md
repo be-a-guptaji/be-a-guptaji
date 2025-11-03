@@ -48,7 +48,7 @@
 </p>
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=18&center=true&vCenter=true&width=950&height=90&duration=3500&pause=900&lines=🚀+If+I+can+do+it%2C+anyone+can;💡+Dream.+Code.+Deploy.;🌱+Evolving+one+line+of+code+at+a+time;🔥+Breaking+problems%2C+building+solutions;⚡+Keep+it+simple%2C+make+it+powerful;🌐+Coding+the+future%2C+one+project+at+a+time"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🚀+If+I+can+do+it%2C+anyone+can;💡+Dream.+Code.+Deploy.;🌱+Evolving+one+line+of+code+at+a+time;🔥+Breaking+problems%2C+building+solutions;⚡+Keep+it+simple%2C+make+it+powerful;🌐+Coding+the+future%2C+one+project+at+a+time"
     alt="motto typing svg - press start 2p"
   />
 </p>
