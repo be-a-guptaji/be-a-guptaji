@@ -170,11 +170,14 @@
 
 ---
 
-<h2 align="center">🐍 My Contribution Snake 🐍</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🐍+My+Contribution+Snake+🐍;✨+Watch+My+Commits+Come+Alive!+✨;⚡+Animated+GitHub+Activity+⚡" alt="Contribution Snake Animation" />
+</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/be-a-guptaji/be-a-guptaji/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/be-a-guptaji/be-a-guptaji/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
 </p>
 
+---
 
 > _“An investment in knowledge pays the best interest.” – Benjamin Franklin_
