@@ -147,7 +147,7 @@
 
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=be-a-guptaji&bg_color=0D1117&color=58A6FF&line=238636&point=1F6FEB&area=true&hide_border=true" alt="Activity Graph" /> -->
 <p align="center">
-  <img src="https://github.com/be-a-guptaji/be-a-guptaji/blob/main/profile-3d-contrib/profile-night-view.svg" width="100%" />
+   <img src="https://raw.githubusercontent.com/be-a-guptaji/be-a-guptaji/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </p>
 
 ---
