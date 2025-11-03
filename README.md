@@ -27,12 +27,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🚀+About+Me;💻+Crafting+Code+That+Matters;🌱+Always+Learning,+Always+Building" alt="About Me Animation" />
 </h2>
 
-<br/>
-
-
 - 👋 Hi there! I’m **_Aryan Baadlas_** a curious mind from India 🇮🇳 who loves turning ideas into code.
 
-- 🔬  I am a 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭 and 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 from 𝐈𝐧𝐝𝐢𝐚 🇮🇳.
+- 🔬 I am a 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭 and 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 from 𝐈𝐧𝐝𝐢𝐚 🇮🇳.
 
 - 🔭 I’m currently working on **_DSA Skills_**.
 
@@ -63,6 +60,7 @@
 </p>
 
 ---
+
  <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=❤️+Connect+with+me!+❤️;😎+My+Socials!+😎" alt="Socials Animation" />
 </h2>
@@ -89,14 +87,14 @@
   </a>
 </div>
 
- ---
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0f172a,100:1e3a8a&section=footer" />
 </p>
 
 ---
- 
+
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=⚡+Explore+My+Tech+Stack!;💻+From+Logic+to+Interface" alt="Typing Animation" />
 </h2>
@@ -107,28 +105,29 @@
 
   <!-- Row 1: Data Science & Tools -->
 
-<img src="https://skillicons.dev/icons?i=python,r,lua,mysql,mongodb,julia,firebase,supabase,flask,postman,aws,docker,kubernetes" /><br>
+<img src="https://skillicons.dev/icons?i=python,r,lua,mysql,mongodb,julia,firebase,supabase,flask,postman,aws,docker,kubernetes" />
+
+<br>
 
   <!-- Row 2: Web Development -->
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,express,javascript,typescript,html,css,tailwind,bootstrap,mui" /><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,express,javascript,typescript,html,css,tailwind,bootstrap,mui" />
+
+<br>
 
   <!-- Row 3: Programming Languages & Tools -->
 
-<img src="https://skillicons.dev/icons?i=java,c,cpp,git,github,vscode,figma,vercel,netlify" /><br>
+<img src="https://skillicons.dev/icons?i=java,c,cpp,git,github,vscode,figma,vercel,netlify" />
+
+<br>
 
 </div>
-
-<br/>
 
 ---
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=📊+GitHub+Stats+📊;🔥+Contribution+Streaks+🔥;🧠+Languages+I+Use+🧠" alt="GitHub Stats Animation" />
 </h2>
-
-
-<br>
 
 <div align=center>
 <h2 align="center">🔥 Streaks 🔥</h2>
@@ -146,10 +145,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🌟+My+GitHub+Contributions+🌟;🚀+Open+Source+Projects+🚀;🤝+Collaborations+and+Commits+🤝" alt="GitHub Contributions Animation" />
 </h2>
 
-<br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=be-a-guptaji&bg_color=0D1117&color=58A6FF&line=238636&point=1F6FEB&area=true&hide_border=true" alt="Activity Graph" />
 
-<hr/>
+---
 
-> *“An investment in knowledge pays the best interest.” – Benjamin Franklin*
+> _“An investment in knowledge pays the best interest.” – Benjamin Franklin_
