@@ -24,7 +24,7 @@
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🚀+About+Me;💻+Crafting+Code+That+Matters;🌱+Always+Learning,+Always+Building" alt="About Me Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=🚀+About+Me+🚀;💻+Crafting+Code+That+Matters+💻;🌱+Always+Learning,+Always+Building+🌱" alt="About Me Animation" />
 </h2>
 
 - 👋 Hi there! I’m **_Aryan Baadlas_** a curious mind from India 🇮🇳 who loves turning ideas into code.
@@ -96,7 +96,7 @@
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=⚡+Explore+My+Tech+Stack!;💻+From+Logic+to+Interface" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=⚡+Explore+My+Tech+Stack!+⚡;💻+From+Logic+to+Interface+💻" alt="Typing Animation" />
 </h2>
 
 <br/>
