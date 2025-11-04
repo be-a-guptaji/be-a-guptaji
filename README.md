@@ -108,11 +108,13 @@
 <img src="https://skillicons.dev/icons?i=python,r,lua,mysql,mongodb,julia,firebase,supabase,flask,postman,aws,docker,kubernetes" />
 
 <br>
+<br>
 
   <!-- Row 2: Web Development -->
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,express,javascript,typescript,html,css,tailwind,bootstrap,mui" />
 
+<br>
 <br>
 
   <!-- Row 3: Programming Languages & Tools -->
