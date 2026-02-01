@@ -70,11 +70,11 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 
-  <a href="https://www.linkedin.com/in/aryanbaadlas/" target="_blank">
+  <a href="https://www.linkedin.com/in/be-a-guptaji/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://leetcode.com/u/aryanbaadlas/" target="_blank">
+  <a href="https://leetcode.com/u/be-a-guptaji/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" />
   </a>
 
@@ -138,14 +138,19 @@
 </h2>
 <div align=center>
   <a href="https://leetcode.com/u/aryanbaadlas/">
-  <img width=650 align="center" src="https://leetcard.jacoblin.cool/aryanbaadlas?theme=dark&font=ovo&ext=contest&border_radius=10" alt="streak stats"/>
+  <img width=650 align="center" src="https://leetcard.jacoblin.cool/be-a-guptaji?theme=dark&font=ovo&ext=contest&border_radius=10" alt="streak stats"/>
   </a>
-  <!-- 
-  <a href="https://leetcode.com/u/aryanbaadlas/">
-  <img width=650 align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=theadarsh1m" alt="streak stats"/>
-  </a>
-  -->
+  
+ 
 </div>
+
+---
+
+<div align=center >
+  <a href="https://leetcode.com/u/aryanbaadlas/">
+  <img width=650 align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=be-a-guptaji" alt="streak stats"/>
+  </a>
+  </div>
   
 ---
 
