@@ -134,6 +134,17 @@
 ---
 
 <h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=📊+Competitive+Programming+Stats+📊;🔥+LeetCode+Streaks+🔥;" alt="GitHub Stats Animation" />
+</h2>
+<div align=center>
+  <a href="https://leetcode.com/u/aryanbaadlas/">
+  <img width=650 align="center" src="https://leetcard.jacoblin.cool/aryanbaadlas?theme=dark&font=ovo&ext=contest&border_radius=10" alt="streak stats"/>
+  </a>
+</div>
+  
+---
+
+<h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=📊+GitHub+Stats+📊;🔥+Contribution+Streaks+🔥;🧠+Languages+I+Use+🧠" alt="GitHub Stats Animation" />
 </h2>
 
