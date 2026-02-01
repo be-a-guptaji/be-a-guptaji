@@ -140,6 +140,11 @@
   <a href="https://leetcode.com/u/aryanbaadlas/">
   <img width=650 align="center" src="https://leetcard.jacoblin.cool/aryanbaadlas?theme=dark&font=ovo&ext=contest&border_radius=10" alt="streak stats"/>
   </a>
+  <!-- 
+  <a href="https://leetcode.com/u/aryanbaadlas/">
+  <img width=650 align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=theadarsh1m" alt="streak stats"/>
+  </a>
+  -->
 </div>
   
 ---
