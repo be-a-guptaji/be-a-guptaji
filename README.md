@@ -148,7 +148,7 @@
 
 <div align=center >
   <a href="https://leetcode.com/u/aryanbaadlas/">
-  <img width=650 align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=be-a-guptaji" alt="streak stats"/>
+  <img width=650 align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=be_a_guptaji" alt="streak stats"/>
   </a>
   </div>
   
