@@ -159,7 +159,6 @@
 </h2>
 
 <div align=center>
-  
   <h2 align="center">🔥 Streaks 🔥</h2>
 
   <img width=650 src="https://github-readme-streak-stats.herokuapp.com/?user=be-a-guptaji&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
