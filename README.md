@@ -10,6 +10,7 @@
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=1500&pause=1000&color=FFB400&center=true&vCenter=true&width=700&lines=I+am+a+Data+Scientist!+🔬;+I+am+a+Web+Developer!+🌐;"
     alt="greeting"
   />
+
 </h1>
 
 <p align="center">
