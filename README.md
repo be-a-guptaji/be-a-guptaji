@@ -143,7 +143,6 @@
   <a href="https://leetcode.com/u/aryanbaadlas/">
   <img width=650 align="center" src="https://leetcard.jacoblin.cool/be-a-guptaji?theme=dark&font=ovo&ext=contest&border_radius=10" alt="streak stats"/>
   </a>
-  
  
 </div>
 
